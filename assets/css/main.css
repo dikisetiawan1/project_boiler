@@ -1,0 +1,17 @@
+body{
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+
+.cetak {
+    border:2px solid yellow;
+    font-weight: 600;
+}
+
+.cetak:hover{
+    background-color: blue;
+    border: none;
+    color: white;
+    font-weight: 800;
+}
